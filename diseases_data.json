@@ -1,24 +1,6 @@
 [
     {
       "condition_name": "Eczema",
-      "links": [
-        {
-          "link_text": "Click me",
-          "url": "https://www.verywellhealth.com/oatmeal-bath-to-treat-eczema-5192086"
-        },
-        {
-          "link_text": "Click me",
-          "url": "https://web.archive.org/web/20200321033951id_/http://www.beauty-review.nl/wp-content/uploads/2015/02/Colloidal-oatmeal-formulations-as-adjunct-treatments-in-atopic-dermatitis.pdf"
-        },
-        {
-          "link_text": "Click me",
-          "url": "https://jddonline.com/articles/effects-of-colloidal-oatmeal-topical-atopic-dermatitis-cream-on-skin-microbiome-and-skin-barrier-pro-S1545961620P0524X/"
-        },
-        {
-          "link_text": "Click me",
-          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8625765/"
-        }
-      ],
       "body_part": "Body",
       "category_img": "https://media.istockphoto.com/id/1356348356/photo/studio-shot-of-an-unrecognizable-young-woman-touching-her-shoulder-while-posing-against-a.jpg?s=612x612&w=0&k=20&c=vO1yvqM4C9RqWkwUfCMojvNU_uRbp77_SAZ9bSDL20w=",
       "condition_img": "https://images.everydayhealth.com/images/skin-beauty/eczema/what-is-eczema-02-hand-eczema-722x406.jpg?sfvrsn=3b197278_5",
@@ -46,6 +28,24 @@
           ],
           "how_to_use": [
             "Soak your body in the oatmeal bath for 10-15 minutes to relieve eczema itchiness and moisturize your skin then wash your body with lukewarm water and dry it. Apply coconut oil to areas of eczema to moisturize the skin and retain moisture. "
+          ],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.verywellhealth.com/oatmeal-bath-to-treat-eczema-5192086"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://web.archive.org/web/20200321033951id_/http://www.beauty-review.nl/wp-content/uploads/2015/02/Colloidal-oatmeal-formulations-as-adjunct-treatments-in-atopic-dermatitis.pdf"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://jddonline.com/articles/effects-of-colloidal-oatmeal-topical-atopic-dermatitis-cream-on-skin-microbiome-and-skin-barrier-pro-S1545961620P0524X/"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8625765/"
+            }
           ]
         }
       ],
