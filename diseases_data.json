@@ -1,711 +1,745 @@
 [
-  {
-    "condition_name": "Eczema",
-    "body_part": "Body",
-    "category_img": "https://media.istockphoto.com/id/1356348356/photo/studio-shot-of-an-unrecognizable-young-woman-touching-her-shoulder-while-posing-against-a.jpg?s=612x612&w=0&k=20&c=vO1yvqM4C9RqWkwUfCMojvNU_uRbp77_SAZ9bSDL20w=",
-    "condition_img": "https://images.everydayhealth.com/images/skin-beauty/eczema/what-is-eczema-02-hand-eczema-722x406.jpg?sfvrsn=3b197278_5",
-    "description": "Eczema, particularly atopic dermatitis, is a skin condition characterized by itchiness and dryness. It can be influenced by both environmental and genetic factors.",
-    "useful_tips": [
-      "Regularly moisturize",
-      "Use warm water for bathing",
-      "Stay hydrated",
-      "Wear cotton clothing",
-      "Manage stress",
-      "Avoid allergens"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "Colloidal Oatmeal Bath",
-        "ingredients": ["1-2 cups of oats", "Coconut oil"],
-        "images": [
-          "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/09/23/rolled-oats-linen-wood-surface-white-bowl.jpg.rend.hgtvcom.1280.960.suffix/1632429307666.jpeg",
-          "https://www.treehugger.com/thmb/OzqfQuQx_EFC4vwLeJ9jfdf9C20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coconut-oil-and-coconuts--palm-branches-close-up-1314573256-db8f4eab6c77432ca4470672ee6b4ecf.jpg"
-        ],
-        "how_to_prepare": [
-          "Grind 1 cup of oats in a blender to a really fine powder.",
-          "Fill the bathtub with warm water (avoid hot water as it can aggravate the inflamed skin).",
-          "Mix the finely grinded oats with the warm water ( 1 cup of oats or more depending on the size of your bathtub) using your hand until the water is milky and feels silky."
-        ],
-        "how_to_use": [
-          "Soak your body in the oatmeal bath for 10-15 minutes to relieve eczema itchiness and moisturize your skin then wash your body with lukewarm water and dry it. Apply coconut oil to areas of eczema to moisturize the skin and retain moisture. "
-        ]
-      }
-    ],
-    "causes": ["Genetic factors", "Environmental triggers"]
-  },
-
-  {
-    "condition_name": "Foot Odor",
-    "body_part": "Feet",
-    "category_img": "https://static.independent.co.uk/2021/05/14/09/27143927-1189d967-8023-4216-b19d-4a350c9bd161.jpg",
-    "condition_img": "https://www.bonnysilver.us/cdn/shop/articles/5fd88c48c382e_1024x1024.jpg?v=1608036504",
-    "description": "Common condition characterized by smelly feet, known as bromodosis.",
-    "useful_tips": [
-      "Wash feet daily",
-      "Remove hard skin",
-      "Wear breathable fabrics",
-      "Alternate shoes",
-      "Avoid walking barefoot in public wet areas"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Vinegar Recipe",
-        "ingredients": [
-          "Water",
-          "Lavender oil",
-          "Baking soda ",
-          "1/3 cup of vinegar (white vinegar or apple cider vinegar)"
-        ],
-        "images": [
-          "https://cdn.shopify.com/s/files/1/0648/1955/files/oil_from_lavender.jpg",
-          "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2023/07/iStock-1352688717.jpg"
-        ],
-        "how_to_prepare": [
-            "Fill a foot basin with warm or cold water.",
-            "Add 1/3 cup of white vinegar or apple cider vinegar."
-        ],
-        "how_to_use":[
-            "Soak your feet in the foot bath for 15 minutes (can be repeated multiple times a day if needed) then rinse and dry your feet. Rub a few drops of lavender oil on your feet especially between your toes. You can sprinkle some baking soda in your shoes to soak up the moisture and bad odor.",
-            "(Caution: avoid soaking your feet in vinegar in case of having any open wounds or sores)"
-        ]
-        
-      }
-    ],
-    "causes": [
-      "Sweat accumulation leading to bacterial growth",
-      "Athlete's foot and other fungal infections"
-    ]
-  },
-  {
-    "condition_name": "Dark Circles",
-    "body_part": "Eyes",
-    "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
-    "condition_img": "https://images.ctfassets.net/u4vv676b8z52/47V4TT1U3ZzvkZPrwUi7xi/a94094548690c551a1a7e0e7fc464a0d/dark-circles-under-eyes-678x446.gif?fm=jpg&q=80",
-    "description": "Darkening of the skin beneath both eyes.",
-    "useful_tips": [
-      "Get enough sleep",
-      "Elevate head during sleep",
-      "Apply cold compresses",
-      "Minimize sun exposure",
-      "Use retinoid creams"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Green Tea Recipe",
-        "ingredients": ["2 cold green tea bags"],
-        "images": [
-          "https://images.ctfassets.net/e8bhhtr91vp3/mtK66uB4RANFaeshtDSz4/13d2f7ade2aea7f5ee25dc027748351c/What_is_green_tea.webp?w=1600&q=60",
-          "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
-        ],
-        "how_to_prepare": ["Add boiling water to the tea bags in a cup", "Brew the tea bags for 5 – 10 minutes ", "Take out the tea bags and put them in the refrigerator to cool"],
-        "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."]
-      }
-    ],
-    "causes": [
-      "Lack of sleep",
-      "Smoking",
-      "Excessive alcohol consumption",
-      "Stress",
-      "Allergies",
-      "Thyroid conditions",
-      "Aging"
-    ]
-  },
-  {
-    "condition_name": "Under-eye Bags",
-    "body_part": "Eyes",
-    "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
-    "condition_img": "https://ocalaeye.com/wp-content/uploads/2022/04/nancy-before.png",
-    "description": "Mild puffiness or swelling beneath the eyes.",
-    "useful_tips": [
-      "Use cool compresses",
-      "Reduce fluid intake before bedtime",
-      "Avoid smoking",
-      "Get adequate sleep",
-      "Sleep with elevated head",
-      "Reduce allergy symptoms"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Cucumber Recipe",
-        "ingredients": ["1 Cucumber"],
-        "images": [
-          "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2445929.png",
-          "https://articles-1mg.gumlet.io/articles/wp-content/uploads/2016/05/slides-cucumbers1-2.jpg?compress=true&quality=80&w=640&dpr=2.6"
-        ],
-        "how_to_prepare":["Wash a fresh cold cucumber well then cut it into thin slices."],
-        "how_to_use":["Gently put two cucumber slices on both eyes and leave them on  until they warm up, then turn them over and leave them on until they warm up. Remove the slices and wash your face."]
-      },
-      {
-        "recipe_name": "The Black or Green Tea Recipe",
-        "ingredients": ["2 cold black tea or green tea bags"],
-        "images": [
-          "https://www.healthifyme.com/blog/wp-content/uploads/2020/02/Black-Tea-2-1.jpg",
-          "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
-        ],
-        "how_to_prepare":["Add boiling water to the tea bags in a cup","Brew the tea bags for 5 – 10 minutes","Take out the tea bags and put them in the refrigerator to cool"],
-        "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."]
-      }
-    ],
-    "causes": [
-      "Aging leading to muscle weakening and tissue deterioration around eyes",
-      "Fat movement to the lower eyelids"
-    ]
-  },
-  {
-    "condition_name": "Active Acne",
-    "body_part": "Face",
-    "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
-    "condition_img": "https://radiantclinique.com/wp-content/uploads/2019/01/Active-acne.jpg",
-    "description": "An inflammatory condition from oil and dead skin cells in hair follicles causing bacteria growth.",
-    "causes": [
-      "Hormonal fluctuations",
-      "Stress",
-      "Unhealthy diet",
-      "Air pollution"
-    ],
-    "useful_tips": [
-      "Avoid touching the face",
-      "Stay hydrated",
-      "Use sunscreen",
-      "Keep face clean",
-      "Remove makeup"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Green Tea Recipe",
-        "ingredients": ["1 green teabag", "1 tablespoon of honey"],
-        "images": [
-          "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg",
-          "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg"
-        ],
-        "how_to_prepare":["Brew the green teabag in boiling water","Remove the teabag and let it cool","Add the honey to a bowl","Open teabag and empty it in the bowl","Mix well"],
-        "how_to_use":["Wash face well and dry it","Apply the paste on face using clean fingertips","Leave the mask for 15 minutes","Rinse with warm water and pat the face dry","Can be used once a week"]
-      },
-      {
-        "recipe_name": "The Honey Recipe",
-        "ingredients": ["1 teaspoon of honey", "1 tablespoon of plain yogurt"],
-        "images": [
-          "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
-          "https://maharaj-northbrook.com/wp-content/uploads/2020/10/Plain-Yogurt-1.jpg"
-        ],
-        "how_to_prepare":["In bowl add the honey","Add the yogurt","Stir ingredients well with a fork"],
-        "how_to_use":["Tie the hair first to avoid stickiness.","Dampen the face with warm water","Apply the mask on the face","Leave for 15 minutes","Rinse with warm water first then with cool water","Pat the skin with a clean dry towel","This mask can be applied twice a week"]
-      }
-    ]
-  },
-  {
-    "condition_name": "Blackheads",
-    "body_part": "Face",
-    "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
-    "condition_img": "https://www.advanceddermatologyseattle.com/wp-content/uploads/2020/05/blackheads.jpg",
-    "description": "Common acne type, develops from sebum and dead skin cells clogging pores.",
-    "causes": [
-      "Excess oil production",
-      "Irritation of the hair follicles",
-      "Build-up of Propionibacterium acnes bacteria",
-      "Hormonal changes"
-    ],
-    "useful_tips": [
-      "Wash face regularly",
-      "Remove makeup",
-      "Change pillowcases often",
-      "Use alcohol-free products"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Egg White Recipe",
-        "ingredients": ["One egg white", "1 tablespoon of Honey"],
-        "images": [
-          "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
-          "https://m.timesofindia.com/photo/88896772/88896772.jpg"
-        ],
-        "how_to_prepare":["Crack an egg then separate the egg white from the yolk","Add the egg white to a bowl","Add the honey in the same bowl","Mix well"],
-        "how_to_use":["Wash face first then dry it","Apply the mask on affected area","Place a tissue paper on the area of the mask","Leave for 20 minutes","Gently pull the tissue","Rinse with warm water","Can be applied every alternate day for best results"]
-      },
-      {
-        "recipe_name": "The Tea Tree Oil Recipe",
-        "ingredients": [
-          "2 drops of tea tree oil",
-          "1 tablespoon of carrier oil",
-          "1 tablespoon of fine sugar",
-          "1 tablespoon of honey"
-        ],
-        "images": [
-          "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
-          "https://www.purodem.com/wp-content/uploads/2022/11/carrier-oils-1.webp"
-        ],
-        "how_to_prepare":["In a bowl add the tea tree oil with the carrier oil and mix both well","Add the honey and the sugar to the bowl","Mix well"],
-        "how_to_use":["Steam the face for 10 minutes by boiling water in a bowl then bending over it with a towel covering the head.","Apply the mixture to the nose","Massage gently in a circular motion for 5 minutes","Rinse off with cool water"]
-      }
-    ]
-  },
-  {
-    "condition_name": "Whiteheads",
-    "body_part": "Face",
-    "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
-    "condition_img": "https://i.insider.com/59b68233f7f1f621008b4788?width=700",
-    "description": "Small, flesh-colored papules on the skin, often found on oily areas of the face.",
-    "causes": [
-      "Clogged pores due to oil and dead skin",
-      "Hormonal fluctuations",
-      "Poor skin hygiene",
-      "Use of certain cosmetics or oils"
-    ],
-    "useful_tips": [
-      "Do not rub the face",
-      "Clean the face thoroughly",
-      "Stay hydrated",
-      "Apply sunblock or sunscreen"
-    ],
-    "recipes": [    
-      {
-        "recipe_name": "The Potato Recipe",
-        "ingredients": ["1 tablespoon of potato juice", "2 tablespoons of yogurt "],
-        "images": [
-          "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
-          "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
-        ],
-        "how_to_prepare":["Peel the potato and blend it in a blender or grate it","Extract its juice","Add the juice in a bowl","Add the yogurt in the bowl","Mix well"],
-        "how_to_use":["Wash the face well","Apply the mask on the face","Leave for 15 minutes","Wash with warm water"]
-      },
-      {
-        "recipe_name": "The Yogurt Recipe",
-        "ingredients": [
-          "1 tablespoon of yogurt",
-          "1 tablespoon of tomato paste"
-        ],
-        "images": [
-          "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2023/07/iStock-1352688717.jpg",
-          "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
-        ],
-        "how_to_prepare":["Blend a tomato in a blender to form paste","Add the paste to a bowl","Add the yogurt to the bowl","Mix well"],
-        "how_to_use":["On damp skin, apply the mask on the face","Leave for 20 minutes","Gently rub it off with cool water","This mask can be used twice a week"]
-      }
-    ]
-  },
-  {
-    "condition_name": "Hair Loss",
-    "body_part": "Hair",
-    "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
-    "condition_img": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24515-male-pattern-baldness",
-    "causes": [
-      "Genetic factors",
-      "Hormonal changes (e.g., pregnancy, menopause)",
-      "Medical conditions",
-      "Nutritional deficiencies"
-    ],
-    "description": "Hair loss is a common condition characterized by Progressive thinning of hair which occurs as people age. Some people experience circular bald patches on their beard eyebrows or scalp.",
-    "useful_tips": [
-      "Follow healthy diet",
-      "Avoid washing hair every day",
-      "Massage the scalp before bedtime",
-      "Use gentle shampoo",
-      "Protect hair from long exposure to sunlight"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Onion and Garlic Recipe",
-        "ingredients": ["2 onions", "5 garlic cloves"],
-        "images": [
-          "https://spiceworldinc.com/wp-content/uploads/2022/06/SW-Onion-Health-Hero.jpg",
-          "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/05/25/cloves-of-garlic-in-bowl.jpg.rend.hgtvcom.1280.1280.suffix/1621974631234.jpeg"
-        ],
-        "how_to_prepare":["Blend 2 onion and 5 garlic cloves together.","Strain the mixture to obtain the juice."],
-        "how_to_use":["Apply the juice and message the scalp.","Leave it on the scalp for at least 10 minutes.","Rinse it off with gentle shampoo."]
-      },
-      {
-        "recipe_name": "The Liquorice Recipe",
-        "ingredients": [
-          "1 tablespoon liquorice powder",
-          "1 tablespoon saffron",
-          "1 cup of milk"
-        ],
-        "images":[
-            "https://m.media-amazon.com/images/I/610DOeFdZjL._AC_UF350,350_QL80_.jpg",
-            "https://www.satvikstore.in/cdn/shop/files/aaaaadaasaaadw-min-min.jpg?v=1682680704",
-            "https://www.allrecipes.com/thmb/TgXszUn8XHUTe19kOwlyGQ4ZjyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-87984584-2-2000-b40af34c16fd4bed815f1e279592b172.jpg"
-        ],
-        "how_to_prepare":["Mix all ingredients to get homogenous paste."],
-        "how_to_use":["Apply the paste on the bald patches at night.","Let it to stay on the scalp overnight.","Wash hair with shampoo in the morning."]
-
-      }
-    ]
-  },
-  {
-    "condition_name": "Dandruff",
-    "body_part": "Hair",
-    "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
-    "condition_img": "https://www.starhealth.in/blog/wp-content/uploads/2022/07/common-image-of-Dandruff.jpg",
-    "causes": [
-      "Dry skin",
-      "Seborrheic dermatitis",
-      "Not cleaning/scrubbing often enough",
-      "Yeast-like fungus (Malassezia)",
-      "Sensitivity to hair care products"
-    ],
-    "description": "Dandruff is a chronic condition characterized by an excessive shedding of dead skin cells from the scalp.",
-    "useful_tips": [
-      "Avoid using hot water to wash the hair",
-      "Eat diet rich in omega-3-fatty acids",
-      "Avoid stress",
-      "Use antifungal shampoo day after day"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Lemon and Ginger Recipe",
-        "images": [
-          "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
-          "https://i0.wp.com/www.savourous.com/wp-content/uploads/2021/02/ginger-juice8-book.jpg?fit=1287%2C1286&ssl=1"
-        ],
-        "ingredients": [
-          "1 tablespoon lemon juice",
-          "1 tablespoon olive oil",
-          "1 tablespoon ginger juice"
-        ],
-        "how_to_prepare":["Mix all ingredients together to get a mixture."],
-        "how_to_use":["Apply the mixture to the scalp.","Message the scalp for 3 minutes.","Leave the mixture on the scalp one hour.","Wash hair with gentle shampoo and warm water."]
-      },
-      {
-        "recipe_name": "The Fenugreek and Hibiscus Recipe",
-        "images": [
-          "https://5.imimg.com/data5/SELLER/Default/2021/1/FM/LV/WK/5003318/fenugreek-seeds-powder-500x500.jpeg",
-          "https://recipes.net/wp-content/uploads/2024/01/how-to-grind-hibiscus-1704356290.jpg"
-        ],
-        "ingredients": [
-          "1 tablespoon powdered fenugreek seeds",
-          "3 tablespoon grinded hibiscus leaves",
-          "¼ cup milk"
-        ],
-        "how_to_prepare":["Mix fenugreek, hibiscus and milk together to form homogenous mixture."],
-        "how_to_use":["Apply the mixture to hair and scalp.","Leave it on scalp for almost one hour.","Rinse it off with shampoo."]
-      }
-    ]
-  },
-  {
-    "condition_name": "Split Ends",
-    "body_part": "Hair",
-    "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
-    "condition_img": "https://static.wixstatic.com/media/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg/v1/fill/w_640,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg",
-    "causes": [
-      "Excessive heat styling",
-      "Chemical hair treatments",
-      "Lack of trimming",
-      "Environmental damage (e.g., sun exposure)"
-    ],
-    "description": "Split ends are caused by damage to the protein structure of the hair, leading to loss of mechanical strength from the cuticle to the cortex.",
-    "useful_tips": [
-      "Avoid washing hair on daily basis",
-      "Avoid using heat on the ends of the hair",
-      "Use shampoo only on the scalp",
-      "Use conditioner to moisturize hair"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Banana Recipe",
-        "images": [
-          "https://insidebrucrewlife.com/wp-content/uploads/2022/01/Ripe-Bananas-3-1-e1642115102588.jpg",
-          "https://static.toiimg.com/thumb/88520288.cms?width=573&height=430"
-        ],
-        "ingredients": ["2 ripe bananas", "1 egg"],
-        "how_to_prepare":["Mashing bananas using a fork.","Add the mashed banana to the egg.","Mix two ingredients well to form consistent mixture."],
-        "how_to_use":["Apply the mixture to the hair.","Leave it on the hair at least 15-30 minutes.","Rinse it off using gentle shampoo and warm water."]
-      },
-      {
-        "recipe_name": "The Sunflower Oil Recipe",
-        "images": [
-          "https://static.toiimg.com/thumb/88520288.cms?width=573&height=430",
-          "https://s.yimg.com/ny/api/res/1.2/RAvlhh19yxOcNKFNDl_0SA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/first_for_women_876/f2cecbc3a9da6c42a347d10e8f5d35fc"
-        ],
-        "ingredients": ["1 egg", "1 tablespoon of sunflower oil"],
-        "how_to_prepare":["Separate yolk of the egg.","Beat the yolk then, add sunflower oil and mix well."],
-        "how_to_use":["Apply the mixture to the hair and leave it at least 30 minutes.","Washing hair with shampoo."]
-      }
-    ]
-  },
-  {
-    "condition_name": "Brittle Nails",
-    "body_part": "Nails",
-    "category_img": "https://media.glamourmagazine.co.uk/photos/655788ec7c1d40d06618ecd4/4:3/w_1704,h_1278,c_limit/SHORT-NAIL-DESIGNS-111723-@elias.nails-L.jpg",
-    "condition_img": "https://www.shutterstock.com/image-photo/flaky-bitten-brittle-nails-without-600nw-2305814343.jpg",
-    "causes": [
-      "Frequent exposure to water and chemicals",
-      "Aging",
-      "Nutritional deficiencies",
-      "Long-term use of nail polish or acrylic nails",
-      "Underlying health conditions like hypothyroidism"
-    ],
-    "description": "A condition where nails become easily breakable due to various factors.Almost everyone can have brittle nails. It is a frequent problem that results in split, thin, or weak nails. It may arise from an underlying condition like anemia or thyroid problems or from problems with moisture.",
-    "useful_tips": [
-      "Keep nails short and trimmed",
-      "Use moisturizers regularly",
-      "Avoid nail polish removers with acetone",
-      "Wear gloves during cleaning and gardening",
-      "Moisturize the cuticles.",
-      "Eat fruits and vegetables.",
-      "Don't bite the nails."
-    ],
-    "recipes": [
-      {
-        "recipe_name": "Olive Oil Recipe",
-        "images": [
-          "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953",
-          "https://5.imimg.com/data5/VG/RQ/MY-37527802/organic-peeled-garlic-cloves.png"
-        ],
-        "ingredients": [
-          "2 tablespoon Olive oil",
-          "1 tablespoon aloe vera gel",
-          "1 garlic clove"
-        ],
-        "how_to_prepare":["Mix aloe vera gel and the olive oil in a clean bowl very well to form a serum.","Chop the garlic clove in a chopping machine to form a paste."],
-        "how_to_use":["Rub the garlic paste to the nails, massage it in gentle circular motions and leave it for 10 minutes.","Wash off and dry the nails.","Now Apply the Serum onto the nails and massage it.","Leave it for 2 hours or overnight for better results.","Apply the Serum every night before bed and apply the garlic paste twice a week."]
-      },
-      {
-        "recipe_name": "The Egg Recipe",
-        "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/3/35/Raw_egg.jpg",
-          "https://www.allrecipes.com/thmb/TgXszUn8XHUTe19kOwlyGQ4ZjyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-87984584-2-2000-b40af34c16fd4bed815f1e279592b172.jpg",
-          "https://5.imimg.com/data5/NM/RG/MY-6266058/natural-honey.jpg"
-        ],
-        "ingredients": [
-          "1 egg yolk ",
-          "¼ cup milk ",
-          "1 tablespoon of honey "
-        ],
-        "how_to_prepare":["In a bowl, mix all the ingredients together very well."],
-        "how_to_use":["Soak the nails in the bowl.","Leave it for 15 minutes.","Wash the nails very well.","Make sure to dry the nails to avoid making them brittle because of the moisture.","Repeat it as needed."]
-      }
-    ]
-  },
-  {
-    "condition_name": "Yellow Nails",
-    "body_part": "Nails",
-    "category_img": "https://media.glamourmagazine.co.uk/photos/655788ec7c1d40d06618ecd4/4:3/w_1704,h_1278,c_limit/SHORT-NAIL-DESIGNS-111723-@elias.nails-L.jpg",
-    "condition_img": "https://d3079h9ojn760r.cloudfront.net/media/2018/04/25131741/yellow-nails-after-Polish.jpg",
-    "causes": [
-      "Frequent exposure to water and chemicals",
-      "Aging",
-      "Nutritional deficiencies",
-      "Long-term use of nail polish or acrylic nails",
-      "Underlying health conditions like hypothyroidism"
-    ],
-    "description": "Some people suffer from yellow nails that may appear as a result of unclean nails or nail polish remaining. Yellow nails may also arise from using certain medications or from some diseases such as fungal infection in the nails. ",
-    "useful_tips": [
-      "Keep the nails clean and dry.",
-      "Limit using harsh nail polishes.",
-      "Wash the hands regularly.",
-      "Never bite the nails.",
-      "See the doctor if the condition worsens or stay for a long time."
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Lemon Recipe",
-        "images": [
-          "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
-          "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953",
-          "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
-        ],
-        "ingredients": [
-          "The juice of 2 lemons ",
-          "1 tablespoon olive oil ",
-          "1 cup of warm water"
-        ],
-        "how_to_prepare":["In a bowl, add the water.","Then add the rest of the ingredients and mix them all very well."],
-        "how_to_use":["Soak the nails in the bowl.","Massage the nails while being soaked.","Leave it for 5 minutes..","Dry the nails very well.","Repeat it twice a week."]
-      },
-      {
-        "recipe_name": "The Tea Tree Oil Recipe",
-        "images": [
-          "https://images.squarespace-cdn.com/content/v1/55240cbae4b0fe3c2af506f6/1596834428190-MMX14QNV6HGQR9T8MHM5/Benefits+of+Tea+Tree+Essential+Oil+for+Skin%2C+Hair+and+Health?format=500w",
-          "https://www.shutterstock.com/image-photo/used-cotton-wool-isolate-on-260nw-1258561150.jpg",
-          "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953"
-        ],
-        "ingredients": [
-          "3-4 drops of the tea tree oil ",
-          "1 Cotton ball",
-          "3 drops olive oil"
-        ],
-        "how_to_prepare":["Put the tea tree oil on the cotton ball."],
-        "how_to_use":["Massage the nails and nail bed with the cotton ball.","After 2 minutes, wash it with warm water.","Dry the nails.","Massage the nails with the olive oil."]
-      }
-    ]
-  },
-  {
-    "condition_name": "Dark Lips",
-    "body_part": "Lips",
-    "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
-    "condition_img": "https://images.indianexpress.com/2019/11/dark-lips-1200.jpg?w=389",
-    "causes": [
-      "Excessive sun exposure",
-      "Dehydration",
-      "Use of low-quality cosmetics",
-      "Smoking",
-      "Caffeine"
-    ],
-    "description": "Discoloration or darkening of lips due to various external or internal factors.",
-    "useful_tips": [
-      "Stay hydrated",
-      "Use lip balms with SPF 30 or above",
-      "Avoid smoking",
-      "Limit caffeine and hot beverages",
-      "Do not use low-quality lip cosmetics."
-    ],
-    "recipes": [
-      {
-        "recipe_name": "Lemon and Sugar Scrub",
-        "images": [
-          "https://hips.hearstapps.com/hmg-prod/images/lemon-juice-royalty-free-image-510180395-1531432390.jpg?crop=1.00xw:0.717xh;0,0.157xh&resize=640:*",
-          "https://cdn.britannica.com/73/239573-131-63075292/sugar-cubes.jpg"
-        ],
-        "ingredients": [
-          "Juice of 1 lemon ",
-          "2 teaspoons sugar",
-          "1 teaspoon honey ",
-          "1 teaspoon olive oil"
-        ],
-        "how_to_prepare":["In a clean bowl add all the ingredients and mix them together very well to form the scrub."],
-        "how_to_use":["Exfoliate the lips with the scrub gently for 2 minutes in a circular motion.","Remove the scrub with damp tissue or towel.","Apply lip balm.","Repeat 2-3 times a week."]
-      }
-    ]
-  },
-  {
-    "condition_name": "Chapped Lips",
-    "body_part": "Lips",
-    "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
-    "condition_img": "https://media.self.com/photos/65158d5e1c03b290a43f806d/4:3/w_2560%2Cc_limit/Chapped-lips.jpeg",
-    "causes": [
-      "Dry or cold weather",
-      "Sun exposure",
-      "Frequent licking of lips",
-      "Dehydration",
-      "Allergic reaction to lip care products"
-    ],
-    "description": "Dry, cracked lips caused by various factors like weather or dehydration.",
-    "useful_tips": [
-      "Choose non-irritating lip products",
-      "Apply sunscreen on lips",
-      "Apply lip balm throughout the day and before going to bed.",
-      "Stay hydrated",
-      "Stop licking or biting lips",
-      "Avoid smoking"
-    ],
-    "recipes": [
-      {
-        "recipe_name": "Honey Lip Mask",
-        "images": [
-          "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
-          "https://vedix.com/cdn/shop/articles/Evidence-Based_d0ddd4a0-ff26-4541-bf3c-095cc6046b1c_1024x400.jpg?v=1635945992"
-        ],
-        "ingredients": [
-          "2 tablespoon of Honey",
-          "A Vitamin E capsule",
-          "1 tablespoon Shea butter"
-        ],
-        "how_to_prepare":["Mix the vitamin E and the honey in clean bowl very well to form a homogenous mixture."],
-        "how_to_use":[
-            "Apply the mixture to the lips then add a layer of shea butter on it.",
-            "Leave it for 15 minutes or overnight for better results.",
-            "Remove it with a damp tissue or towel.",
-            "Repeat it once a day."
-        ]
-      }
-    ]
-  },
-  {
-    "condition_name": "Teeth Discoloration",
-    "body_part": "Teeth",
-    "category_img": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/white-teeth.jpg",
-    "condition_img": "https://scottsdaledentalexcellence.com/wp-content/uploads/2021/01/why-teeth-discolor-and-how-to-prevent-and-reverse-it.jpg",
-    "causes": [
-      "Consumption of certain foods and beverages (like coffee, tea, red wine)",
-      "Tobacco use",
-      "Poor dental hygiene",
-      "Disease affecting enamel and dentin",
-      "Certain medications",
-      "Aging"
-    ],
-    "description": "Teeth discoloration is the change of the color of teeth, it often becomes yellow. This discoloration may be extrinsic or intrinsic. \n Extrinsic Teeth Discoloration: it occurs on the surface of the tooth because of non-metallic factors like tobacco use or poor oral hygiene and metallic factors like using the iron supplements. \n Intrinsic Teeth Discoloration: this occurs deeply in the teeth because of using some medications like tetracycline antibiotics or because of dental trauma and enamel crack. ",
-    "useful_tips": [
-      "Avoid smoking.",
-      "Limit the coffee and tea intake.",
-      "Brush the teeth regularly.",
-      "Never underestimate the efficacy of the teeth flossing."
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Strawberries Recipe",
-        "ingredients": ["2 strawberries ", "1 teaspoon lemon juice ", "Water"],
-        "images": [
-          "https://www.health.com/thmb/18xOlsk4Eb84ciGWMo9LVXBkWKk=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberries-c5f434e7729e47c5b32c0deaa029386c.jpg",
-          "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg"
-          ,"https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
-        ],
-        "how_to_prepare":["Mash the strawberries to get the strawberries pulp.","Add the pulp, lemon juice and water in a bowl.","Mix them very well to get a paste."],
-        "how_to_use":["Put some paste on toothbrush.","Apply it on the teeth for 3 minutes.","Rinse it with water.","Brush the teeth with the regular toothpaste.","Repeat it once a week"]
-      },
-      {
-        "recipe_name": "The Banana Peel Recipe",
-        "ingredients": [
-          "1 banana peel",
-          "1 teaspoon lemon juice",
-          "1 teaspoon toothpaste"
-        ],
-        "images": [
-          "https://thefoodtrends.com/wp-content/uploads/2023/01/banana-peel-tea.jpg",
-          "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg"
-        ],
-        "how_to_prepare":["Rub the banana peel with a spoon and get the inner content of it then add it in a clean bowl.","Add the lemon juice and toothpaste to the bowl.","Mix all the ingredients very well to form a homogenous mixture."],
-        "how_to_use":["Put a little bit of this mixture on a toothbrush.","Brush the teeth for 1 or 2 minutes.","Repeat 3-4 times a week for better results."]
-      }
-    ]
-  },
-  {
-    "condition_name": "Bad Breath",
-    "body_part": "Teeth",
-    "category_img": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/white-teeth.jpg",
-    "condition_img": "https://www.canalvistafamilydental.com/wp-content/uploads/2019/10/what-causes.webp",
-    "causes": [
-      "Consumption of certain foods and beverages (like coffee, tea, red wine)",
-      "Tobacco use",
-      "Poor dental hygiene",
-      "Disease affecting enamel and dentin",
-      "Certain medications"
-    ],
-    "description": "Halitosis or the bad breath refers to the unpleasant odour that comes from the oral cavity. The reason for the bad breath is the oral bacteria which is normally found between tongue buds that produce sulphur containing compounds. The poor oral hygiene and ignoring the teeth flossing make the bacteria grow on the food left between the teeth and in the mouth causing the bad breath.",
-    "useful_tips": [
-      "Drink water.",
-      "Avoid smoking.",
-      "Clean the tongue.",
-      "Brush and floss the teeth.",
-      "Chew gum."
-    ],
-    "recipes": [
-      {
-        "recipe_name": "The Cinnamon Mouthwash Recipe",
-        "ingredients": ["1 tablespoon cinnamon.", "1 tablespoon whole cloves.", "1 cup of water."],
-        "images": [
-          "https://images.immediate.co.uk/production/volatile/sites/30/2016/08/cinnamon-benefits44-724deaf.jpg?quality=90&resize=440,400",
-          "https://m.media-amazon.com/images/I/A1PjxnKmF+L._SL1500_.jpg"
-          ,"https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
-        ],
-        "how_to_prepare":["Boil the water then add the cinnamon and cloves.","Remove from the heat and let them infuse for 10 minutes.","Strain the mixture.","Pour the mixture into a bottle with a lid."],
-        "how_to_use":["Use it as a mouthwash and gargle with it whenever needed.","Keep it in the refrigerator and use it within 1 week."]
-      },
-      {
-        "recipe_name": "The Peppermint Mouthwash Recipe",
-        "ingredients": [
-          "1 cup of water",
-          "3-4 drops peppermint oil ",
-          "1 teaspoon honey (optional)"
-        ],
-        "images": [
-          "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg",
-          "https://www.drweil.com/wp-content/uploads/2018/09/Peppermint-Oil-_-Guide-To-Essential-Oils-_-Andrew-Weil-M.D_-673386912.jpg",
-          "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg"
-        ],
-        "how_to_prepare":["Mix all the ingredients."],
-        "how_to_use":["Use it as refreshing mouthwash whenever needed."]
-      }
-    ]
-  }
-]
+    {
+      "condition_name": "Eczema",
+      "links": [
+        {
+          "link_text": "Click me",
+          "url": "https://www.verywellhealth.com/oatmeal-bath-to-treat-eczema-5192086"
+        },
+        {
+          "link_text": "Click me",
+          "url": "https://web.archive.org/web/20200321033951id_/http://www.beauty-review.nl/wp-content/uploads/2015/02/Colloidal-oatmeal-formulations-as-adjunct-treatments-in-atopic-dermatitis.pdf"
+        },
+        {
+          "link_text": "Click me",
+          "url": "https://jddonline.com/articles/effects-of-colloidal-oatmeal-topical-atopic-dermatitis-cream-on-skin-microbiome-and-skin-barrier-pro-S1545961620P0524X/"
+        },
+        {
+          "link_text": "Click me",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8625765/"
+        }
+      ],
+      "body_part": "Body",
+      "category_img": "https://media.istockphoto.com/id/1356348356/photo/studio-shot-of-an-unrecognizable-young-woman-touching-her-shoulder-while-posing-against-a.jpg?s=612x612&w=0&k=20&c=vO1yvqM4C9RqWkwUfCMojvNU_uRbp77_SAZ9bSDL20w=",
+      "condition_img": "https://images.everydayhealth.com/images/skin-beauty/eczema/what-is-eczema-02-hand-eczema-722x406.jpg?sfvrsn=3b197278_5",
+      "description": "Eczema, particularly atopic dermatitis, is a skin condition characterized by itchiness and dryness. It can be influenced by both environmental and genetic factors.",
+      "useful_tips": [
+        "Regularly moisturize",
+        "Use warm water for bathing",
+        "Stay hydrated",
+        "Wear cotton clothing",
+        "Manage stress",
+        "Avoid allergens"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "Colloidal Oatmeal Bath",
+          "ingredients": ["1-2 cups of oats", "Coconut oil"],
+          "images": [
+            "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/09/23/rolled-oats-linen-wood-surface-white-bowl.jpg.rend.hgtvcom.1280.960.suffix/1632429307666.jpeg",
+            "https://www.treehugger.com/thmb/OzqfQuQx_EFC4vwLeJ9jfdf9C20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coconut-oil-and-coconuts--palm-branches-close-up-1314573256-db8f4eab6c77432ca4470672ee6b4ecf.jpg"
+          ],
+          "how_to_prepare": [
+            "Grind 1 cup of oats in a blender to a really fine powder.",
+            "Fill the bathtub with warm water (avoid hot water as it can aggravate the inflamed skin).",
+            "Mix the finely grinded oats with the warm water ( 1 cup of oats or more depending on the size of your bathtub) using your hand until the water is milky and feels silky."
+          ],
+          "how_to_use": [
+            "Soak your body in the oatmeal bath for 10-15 minutes to relieve eczema itchiness and moisturize your skin then wash your body with lukewarm water and dry it. Apply coconut oil to areas of eczema to moisturize the skin and retain moisture. "
+          ]
+        }
+      ],
+      "causes": ["Genetic factors", "Environmental triggers"]
+    },
+  
+    {
+      "condition_name": "Foot Odor",
+      "links": [],
+      "body_part": "Feet",
+      "category_img": "https://static.independent.co.uk/2021/05/14/09/27143927-1189d967-8023-4216-b19d-4a350c9bd161.jpg",
+      "condition_img": "https://www.bonnysilver.us/cdn/shop/articles/5fd88c48c382e_1024x1024.jpg?v=1608036504",
+      "description": "Common condition characterized by smelly feet, known as bromodosis.",
+      "useful_tips": [
+        "Wash feet daily",
+        "Remove hard skin",
+        "Wear breathable fabrics",
+        "Alternate shoes",
+        "Avoid walking barefoot in public wet areas"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Vinegar Recipe",
+          "ingredients": [
+            "Water",
+            "Lavender oil",
+            "Baking soda ",
+            "1/3 cup of vinegar (white vinegar or apple cider vinegar)"
+          ],
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0648/1955/files/oil_from_lavender.jpg",
+            "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2023/07/iStock-1352688717.jpg"
+          ],
+          "how_to_prepare": [
+              "Fill a foot basin with warm or cold water.",
+              "Add 1/3 cup of white vinegar or apple cider vinegar."
+          ],
+          "how_to_use":[
+              "Soak your feet in the foot bath for 15 minutes (can be repeated multiple times a day if needed) then rinse and dry your feet. Rub a few drops of lavender oil on your feet especially between your toes. You can sprinkle some baking soda in your shoes to soak up the moisture and bad odor.",
+              "(Caution: avoid soaking your feet in vinegar in case of having any open wounds or sores)"
+          ]
+          
+        }
+      ],
+      "causes": [
+        "Sweat accumulation leading to bacterial growth",
+        "Athlete's foot and other fungal infections"
+      ]
+    },
+    {
+      "condition_name": "Dark Circles",
+      "links": [],
+      "body_part": "Eyes",
+      "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
+      "condition_img": "https://images.ctfassets.net/u4vv676b8z52/47V4TT1U3ZzvkZPrwUi7xi/a94094548690c551a1a7e0e7fc464a0d/dark-circles-under-eyes-678x446.gif?fm=jpg&q=80",
+      "description": "Darkening of the skin beneath both eyes.",
+      "useful_tips": [
+        "Get enough sleep",
+        "Elevate head during sleep",
+        "Apply cold compresses",
+        "Minimize sun exposure",
+        "Use retinoid creams"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Green Tea Recipe",
+          "ingredients": ["2 cold green tea bags"],
+          "images": [
+            "https://images.ctfassets.net/e8bhhtr91vp3/mtK66uB4RANFaeshtDSz4/13d2f7ade2aea7f5ee25dc027748351c/What_is_green_tea.webp?w=1600&q=60",
+            "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
+          ],
+          "how_to_prepare": ["Add boiling water to the tea bags in a cup", "Brew the tea bags for 5 – 10 minutes ", "Take out the tea bags and put them in the refrigerator to cool"],
+          "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."]
+        }
+      ],
+      "causes": [
+        "Lack of sleep",
+        "Smoking",
+        "Excessive alcohol consumption",
+        "Stress",
+        "Allergies",
+        "Thyroid conditions",
+        "Aging"
+      ]
+    },
+    {
+      "condition_name": "Under-eye Bags",
+      "links": [],
+      "body_part": "Eyes",
+      "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
+      "condition_img": "https://ocalaeye.com/wp-content/uploads/2022/04/nancy-before.png",
+      "description": "Mild puffiness or swelling beneath the eyes.",
+      "useful_tips": [
+        "Use cool compresses",
+        "Reduce fluid intake before bedtime",
+        "Avoid smoking",
+        "Get adequate sleep",
+        "Sleep with elevated head",
+        "Reduce allergy symptoms"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Cucumber Recipe",
+          "ingredients": ["1 Cucumber"],
+          "images": [
+            "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2445929.png",
+            "https://articles-1mg.gumlet.io/articles/wp-content/uploads/2016/05/slides-cucumbers1-2.jpg?compress=true&quality=80&w=640&dpr=2.6"
+          ],
+          "how_to_prepare":["Wash a fresh cold cucumber well then cut it into thin slices."],
+          "how_to_use":["Gently put two cucumber slices on both eyes and leave them on  until they warm up, then turn them over and leave them on until they warm up. Remove the slices and wash your face."]
+        },
+        {
+          "recipe_name": "The Black or Green Tea Recipe",
+          "ingredients": ["2 cold black tea or green tea bags"],
+          "images": [
+            "https://www.healthifyme.com/blog/wp-content/uploads/2020/02/Black-Tea-2-1.jpg",
+            "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
+          ],
+          "how_to_prepare":["Add boiling water to the tea bags in a cup","Brew the tea bags for 5 – 10 minutes","Take out the tea bags and put them in the refrigerator to cool"],
+          "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."]
+        }
+      ],
+      "causes": [
+        "Aging leading to muscle weakening and tissue deterioration around eyes",
+        "Fat movement to the lower eyelids"
+      ]
+    },
+    {
+      "condition_name": "Active Acne",
+      "links": [],
+      "body_part": "Face",
+      "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
+      "condition_img": "https://radiantclinique.com/wp-content/uploads/2019/01/Active-acne.jpg",
+      "description": "An inflammatory condition from oil and dead skin cells in hair follicles causing bacteria growth.",
+      "causes": [
+        "Hormonal fluctuations",
+        "Stress",
+        "Unhealthy diet",
+        "Air pollution"
+      ],
+      "useful_tips": [
+        "Avoid touching the face",
+        "Stay hydrated",
+        "Use sunscreen",
+        "Keep face clean",
+        "Remove makeup"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Green Tea Recipe",
+          "ingredients": ["1 green teabag", "1 tablespoon of honey"],
+          "images": [
+            "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg",
+            "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg"
+          ],
+          "how_to_prepare":["Brew the green teabag in boiling water","Remove the teabag and let it cool","Add the honey to a bowl","Open teabag and empty it in the bowl","Mix well"],
+          "how_to_use":["Wash face well and dry it","Apply the paste on face using clean fingertips","Leave the mask for 15 minutes","Rinse with warm water and pat the face dry","Can be used once a week"]
+        },
+        {
+          "name": "The Honey Recipe",
+          "ingredients": ["1 teaspoon of honey", "1 tablespoon of plain yogurt"],
+          "images": [
+            "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+            "https://maharaj-northbrook.com/wp-content/uploads/2020/10/Plain-Yogurt-1.jpg"
+          ],
+          "how_to_prepare":["In bowl add the honey","Add the yogurt","Stir ingredients well with a fork"],
+          "how_to_use":["Tie the hair first to avoid stickiness.","Dampen the face with warm water","Apply the mask on the face","Leave for 15 minutes","Rinse with warm water first then with cool water","Pat the skin with a clean dry towel","This mask can be applied twice a week"]
+        }
+      ]
+    },
+    {
+      "condition_name": "Blackheads",
+      "body_part": "Face",
+      "links": [],
+      "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
+      "condition_img": "https://www.advanceddermatologyseattle.com/wp-content/uploads/2020/05/blackheads.jpg",
+      "description": "Common acne type, develops from sebum and dead skin cells clogging pores.",
+      "causes": [
+        "Excess oil production",
+        "Irritation of the hair follicles",
+        "Build-up of Propionibacterium acnes bacteria",
+        "Hormonal changes"
+      ],
+      "useful_tips": [
+        "Wash face regularly",
+        "Remove makeup",
+        "Change pillowcases often",
+        "Use alcohol-free products"
+      ],
+      "recipes": [
+        {
+          "name": "The Egg White Recipe",
+          "ingredients": ["One egg white", "1 tablespoon of Honey"],
+          "images": [
+            "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+            "https://m.timesofindia.com/photo/88896772/88896772.jpg"
+          ],
+          "how_to_prepare":["Crack an egg then separate the egg white from the yolk","Add the egg white to a bowl","Add the honey in the same bowl","Mix well"],
+          "how_to_use":["Wash face first then dry it","Apply the mask on affected area","Place a tissue paper on the area of the mask","Leave for 20 minutes","Gently pull the tissue","Rinse with warm water","Can be applied every alternate day for best results"]
+        },
+        {
+          "name": "The Tea Tree Oil Recipe",
+          "ingredients": [
+            "2 drops of tea tree oil",
+            "1 tablespoon of carrier oil",
+            "1 tablespoon of fine sugar",
+            "1 tablespoon of honey"
+          ],
+          "images": [
+            "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+            "https://www.purodem.com/wp-content/uploads/2022/11/carrier-oils-1.webp"
+          ],
+          "how_to_prepare":["In a bowl add the tea tree oil with the carrier oil and mix both well","Add the honey and the sugar to the bowl","Mix well"],
+          "how_to_use":["Steam the face for 10 minutes by boiling water in a bowl then bending over it with a towel covering the head.","Apply the mixture to the nose","Massage gently in a circular motion for 5 minutes","Rinse off with cool water"]
+        }
+      ]
+    },
+    {
+      "condition_name": "Whiteheads",
+      "body_part": "Face",
+      "links": [],
+      "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
+      "condition_img": "https://i.insider.com/59b68233f7f1f621008b4788?width=700",
+      "description": "Small, flesh-colored papules on the skin, often found on oily areas of the face.",
+      "causes": [
+        "Clogged pores due to oil and dead skin",
+        "Hormonal fluctuations",
+        "Poor skin hygiene",
+        "Use of certain cosmetics or oils"
+      ],
+      "useful_tips": [
+        "Do not rub the face",
+        "Clean the face thoroughly",
+        "Stay hydrated",
+        "Apply sunblock or sunscreen"
+      ],
+      "recipes": [    
+        {
+          "name": "The Potato Recipe",
+          "ingredients": ["1 tablespoon of potato juice", "2 tablespoons of yogurt "],
+          "images": [
+            "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
+            "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
+          ],
+          "how_to_prepare":["Peel the potato and blend it in a blender or grate it","Extract its juice","Add the juice in a bowl","Add the honey in the bowl","Mix well"],
+          "how_to_use":["Wash the face well","Apply the mask on the face","Leave for 15 minutes","Wash with warm water"]
+        },
+        {
+          "name": "The Yogurt Recipe",
+          "ingredients": [
+            "1 tablespoon of yogurt",
+            "1 tablespoon of tomato paste"
+          ],
+          "images": [
+            "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2023/07/iStock-1352688717.jpg",
+            "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
+          ],
+          "how_to_prepare":["Blend a tomato in a blender to form paste","Add the paste to a bowl","Add the yogurt to the bowl","Mix well"],
+          "how_to_use":["On damp skin, apply the mask on the face","Leave for 20 minutes","Gently rub it off with cool water","This mask can be used twice a week"]
+        }
+      ]
+    },
+    {
+      "condition_name": "Hair Loss",
+      "links": [],
+      "body_part": "Hair",
+      "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
+      "condition_img": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24515-male-pattern-baldness",
+      "causes": [
+        "Genetic factors",
+        "Hormonal changes (e.g., pregnancy, menopause)",
+        "Medical conditions",
+        "Nutritional deficiencies"
+      ],
+      "description": "Hair loss is a common condition characterized by Progressive thinning of hair which occurs as people age. Some people experience circular bald patches on their beard eyebrows or scalp.",
+      "useful_tips": [
+        "Follow healthy diet",
+        "Avoid washing hair every day",
+        "Massage the scalp before bedtime",
+        "Use gentle shampoo",
+        "Protect hair from long exposure to sunlight"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Onion and Garlic Recipe",
+          "ingredients": ["2 onions", "5 garlic cloves"],
+          "images": [
+            "https://spiceworldinc.com/wp-content/uploads/2022/06/SW-Onion-Health-Hero.jpg",
+            "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/05/25/cloves-of-garlic-in-bowl.jpg.rend.hgtvcom.1280.1280.suffix/1621974631234.jpeg"
+          ],
+          "how_to_prepare":["Blend 2 onion and 5 garlic cloves together.","Strain the mixture to obtain the juice."],
+          "how_to_use":["Apply the juice and message the scalp.","Leave it on the scalp for at least 10 minutes.","Rinse it off with gentle shampoo."]
+        },
+        {
+          "recipe_name": "The Liquorice Recipe",
+          "ingredients": [
+            "1 tablespoon liquorice powder",
+            "1 tablespoon saffron",
+            "1 cup of milk"
+          ],
+          "images":[
+              "https://m.media-amazon.com/images/I/610DOeFdZjL._AC_UF350,350_QL80_.jpg",
+              "https://www.satvikstore.in/cdn/shop/files/aaaaadaasaaadw-min-min.jpg?v=1682680704",
+              "https://www.allrecipes.com/thmb/TgXszUn8XHUTe19kOwlyGQ4ZjyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-87984584-2-2000-b40af34c16fd4bed815f1e279592b172.jpg"
+          ],
+          "how_to_prepare":["Mix all ingredients to get homogenous paste."],
+          "how_to_use":["Apply the paste on the bald patches at night.","Let it to stay on the scalp overnight.","Wash hair with shampoo in the morning."]
+  
+        }
+      ]
+    },
+    {
+      "condition_name": "Dandruff",
+      "links": [],
+      "body_part": "Hair",
+      "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
+      "condition_img": "https://www.starhealth.in/blog/wp-content/uploads/2022/07/common-image-of-Dandruff.jpg",
+      "causes": [
+        "Dry skin",
+        "Seborrheic dermatitis",
+        "Not cleaning/scrubbing often enough",
+        "Yeast-like fungus (Malassezia)",
+        "Sensitivity to hair care products"
+      ],
+      "description": "Dandruff is a chronic condition characterized by an excessive shedding of dead skin cells from the scalp.",
+      "useful_tips": [
+        "Avoid using hot water to wash the hair",
+        "Eat diet rich in omega-3-fatty acids",
+        "Avoid stress",
+        "Use antifungal shampoo day after day"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Lemon and Ginger Recipe",
+          "images": [
+            "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
+            "https://i0.wp.com/www.savourous.com/wp-content/uploads/2021/02/ginger-juice8-book.jpg?fit=1287%2C1286&ssl=1"
+          ],
+          "ingredients": [
+            "1 tablespoon lemon juice",
+            "1 tablespoon olive oil",
+            "1 tablespoon ginger juice"
+          ],
+          "how_to_prepare":["Mix all ingredients together to get a mixture."],
+          "how_to_use":["Apply the mixture to the scalp.","Message the scalp for 3 minutes.","Leave the mixture on the scalp one hour.","Wash hair with gentle shampoo and warm water."]
+        },
+        {
+          "recipe_name": "The Fenugreek and Hibiscus Recipe",
+          "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2021/1/FM/LV/WK/5003318/fenugreek-seeds-powder-500x500.jpeg",
+            "https://recipes.net/wp-content/uploads/2024/01/how-to-grind-hibiscus-1704356290.jpg"
+          ],
+          "ingredients": [
+            "1 tablespoon powdered fenugreek seeds",
+            "3 tablespoon grinded hibiscus leaves",
+            "¼ cup milk"
+          ],
+          "how_to_prepare":["Mix fenugreek, hibiscus and milk together to form homogenous mixture."],
+          "how_to_use":["Apply the mixture to hair and scalp.","Leave it on scalp for almost one hour.","Rinse it off with shampoo."]
+        }
+      ]
+    },
+    {
+      "condition_name": "Split Ends",
+      "links": [],
+      "body_part": "Hair",
+      "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
+      "condition_img": "https://static.wixstatic.com/media/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg/v1/fill/w_640,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg",
+      "causes": [
+        "Excessive heat styling",
+        "Chemical hair treatments",
+        "Lack of trimming",
+        "Environmental damage (e.g., sun exposure)"
+      ],
+      "description": "Split ends are caused by damage to the protein structure of the hair, leading to loss of mechanical strength from the cuticle to the cortex.",
+      "useful_tips": [
+        "Avoid washing hair on daily basis",
+        "Avoid using heat on the ends of the hair",
+        "Use shampoo only on the scalp",
+        "Use conditioner to moisturize hair"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Banana Recipe",
+          "images": [
+            "https://insidebrucrewlife.com/wp-content/uploads/2022/01/Ripe-Bananas-3-1-e1642115102588.jpg",
+            "https://static.toiimg.com/thumb/88520288.cms?width=573&height=430"
+          ],
+          "ingredients": ["2 ripe bananas", "1 egg"],
+          "how_to_prepare":["Mashing bananas using a fork.","Add the mashed banana to the egg.","Mix two ingredients well to form consistent mixture."],
+          "how_to_use":["Apply the mixture to the hair.","Leave it on the hair at least 15-30 minutes.","Rinse it off using gentle shampoo and warm water."]
+        },
+        {
+          "recipe_name": "The Sunflower Oil Recipe",
+          "images": [
+            "https://static.toiimg.com/thumb/88520288.cms?width=573&height=430",
+            "https://s.yimg.com/ny/api/res/1.2/RAvlhh19yxOcNKFNDl_0SA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/first_for_women_876/f2cecbc3a9da6c42a347d10e8f5d35fc"
+          ],
+          "ingredients": ["1 egg", "1 tablespoon of sunflower oil"],
+          "how_to_prepare":["Separate yolk of the egg.","Beat the yolk then, add sunflower oil and mix well."],
+          "how_to_use":["Apply the mixture to the hair and leave it at least 30 minutes.","Washing hair with shampoo."]
+        }
+      ]
+    },
+    {
+      "condition_name": "Brittle Nails",
+      "links": [],
+      "body_part": "Nails",
+      "category_img": "https://media.glamourmagazine.co.uk/photos/655788ec7c1d40d06618ecd4/4:3/w_1704,h_1278,c_limit/SHORT-NAIL-DESIGNS-111723-@elias.nails-L.jpg",
+      "condition_img": "https://www.shutterstock.com/image-photo/flaky-bitten-brittle-nails-without-600nw-2305814343.jpg",
+      "causes": [
+        "Frequent exposure to water and chemicals",
+        "Aging",
+        "Nutritional deficiencies",
+        "Long-term use of nail polish or acrylic nails",
+        "Underlying health conditions like hypothyroidism"
+      ],
+      "description": "A condition where nails become easily breakable due to various factors.Almost everyone can have brittle nails. It is a frequent problem that results in split, thin, or weak nails. It may arise from an underlying condition like anemia or thyroid problems or from problems with moisture.",
+      "useful_tips": [
+        "Keep nails short and trimmed",
+        "Use moisturizers regularly",
+        "Avoid nail polish removers with acetone",
+        "Wear gloves during cleaning and gardening",
+        "Moisturize the cuticles.",
+        "Eat fruits and vegetables.",
+        "Don't bite the nails."
+      ],
+      "recipes": [
+        {
+          "recipe_name": "Olive Oil Soak",
+          "images": [
+            "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953",
+            "https://5.imimg.com/data5/VG/RQ/MY-37527802/organic-peeled-garlic-cloves.png"
+          ],
+          "ingredients": [
+            "2 tablespoon Olive oil",
+            "1 tablespoon aloe vera gel",
+            "1 garlic clove"
+          ],
+          "how_to_prepare":["Mix aloe vera gel and the olive oil in a clean bowl very well to form a serum.","Chop the garlic clove in a chopping machine to form a paste."],
+          "how_to_use":["Rub the garlic paste to the nails, massage it in gentle circular motions and leave it for 10 minutes.","Wash off and dry the nails.","Now Apply the Serum onto the nails and massage it.","Leave it for 2 hours or overnight for better results.","Apply the Serum every night before bed and apply the garlic paste twice a week."]
+        },
+        {
+          "recipe_name": "The Egg Recipe",
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/35/Raw_egg.jpg",
+            "https://www.allrecipes.com/thmb/TgXszUn8XHUTe19kOwlyGQ4ZjyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-87984584-2-2000-b40af34c16fd4bed815f1e279592b172.jpg",
+            "https://5.imimg.com/data5/NM/RG/MY-6266058/natural-honey.jpg"
+          ],
+          "ingredients": [
+            "1 egg yolk ",
+            "¼ cup milk ",
+            "1 tablespoon of honey "
+          ],
+          "how_to_prepare":["In a bowl, mix all the ingredients together very well."],
+          "how_to_use":["Soak the nails in the bowl.","Leave it for 15 minutes.","Wash the nails very well.","Make sure to dry the nails to avoid making them brittle because of the moisture.","Repeat it as needed."]
+        }
+      ]
+    },
+    {
+      "condition_name": "Yellow Nails",
+      "links": [],
+      "body_part": "Nails",
+      "category_img": "https://media.glamourmagazine.co.uk/photos/655788ec7c1d40d06618ecd4/4:3/w_1704,h_1278,c_limit/SHORT-NAIL-DESIGNS-111723-@elias.nails-L.jpg",
+      "condition_img": "https://d3079h9ojn760r.cloudfront.net/media/2018/04/25131741/yellow-nails-after-Polish.jpg",
+      "causes": [
+        "Frequent exposure to water and chemicals",
+        "Aging",
+        "Nutritional deficiencies",
+        "Long-term use of nail polish or acrylic nails",
+        "Underlying health conditions like hypothyroidism"
+      ],
+      "description": "Some people suffer from yellow nails that may appear as a result of unclean nails or nail polish remaining. Yellow nails may also arise from using certain medications or from some diseases such as fungal infection in the nails. ",
+      "useful_tips": [
+        "Keep the nails clean and dry.",
+        "Limit using harsh nail polishes.",
+        "Wash the hands regularly.",
+        "Never bite the nails.",
+        "See the doctor if the condition worsens or stay for a long time."
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Lemon Recipe",
+          "images": [
+            "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
+            "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953",
+            "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
+          ],
+          "ingredients": [
+            "The juice of 2 lemons ",
+            "1 tablespoon olive oil ",
+            "1 cup of warm water"
+          ],
+          "how_to_prepare":["In a bowl, add the water.","Then add the rest of the ingredients and mix them all very well."],
+          "how_to_use":["Soak the nails in the bowl.","Massage the nails while being soaked.","Leave it for 5 minutes..","Dry the nails very well.","Repeat it twice a week."]
+        },
+        {
+          "recipe_name": "The Tea Tree Oil Recipe",
+          "images": [
+            "https://images.squarespace-cdn.com/content/v1/55240cbae4b0fe3c2af506f6/1596834428190-MMX14QNV6HGQR9T8MHM5/Benefits+of+Tea+Tree+Essential+Oil+for+Skin%2C+Hair+and+Health?format=500w",
+            "https://www.shutterstock.com/image-photo/used-cotton-wool-isolate-on-260nw-1258561150.jpg",
+            "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953"
+          ],
+          "ingredients": [
+            "3-4 drops of the tea tree oil ",
+            "1 Cotton ball",
+            "3 drops olive oil"
+          ],
+          "how_to_prepare":["Put the tea tree oil on the cotton ball."],
+          "how_to_use":["Massage the nails and nail bed with the cotton ball.","After 2 minutes, wash it with warm water.","Dry the nails.","Massage the nails with the olive oil."]
+        }
+      ]
+    },
+    {
+      "condition_name": "Dark Lips",
+      "links": [],
+      "body_part": "Lips",
+      "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
+      "condition_img": "https://images.indianexpress.com/2019/11/dark-lips-1200.jpg?w=389",
+      "causes": [
+        "Excessive sun exposure",
+        "Dehydration",
+        "Use of low-quality cosmetics",
+        "Smoking",
+        "Caffeine"
+      ],
+      "description": "Discoloration or darkening of lips due to various external or internal factors.",
+      "useful_tips": [
+        "Stay hydrated",
+        "Use lip balms with SPF 30 or above",
+        "Avoid smoking",
+        "Limit caffeine and hot beverages",
+        "Do not use low-quality lip cosmetics."
+      ],
+      "recipes": [
+        {
+          "recipe_name": "Lemon and Sugar Scrub",
+          "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/lemon-juice-royalty-free-image-510180395-1531432390.jpg?crop=1.00xw:0.717xh;0,0.157xh&resize=640:*",
+            "https://cdn.britannica.com/73/239573-131-63075292/sugar-cubes.jpg"
+          ],
+          "ingredients": [
+            "Juice of 1 lemon ",
+            "2 teaspoons sugar",
+            "1 teaspoon honey ",
+            "1 teaspoon olive oil"
+          ],
+          "how_to_prepare":["In a clean bowl add all the ingredients and mix them together very well to form the scrub."],
+          "how_to_use":["Exfoliate the lips with the scrub gently for 2 minutes in a circular motion.","Remove the scrub with damp tissue or towel.","Apply lip balm.","Repeat 2-3 times a week."]
+        }
+      ]
+    },
+    {
+      "condition_name": "Chapped Lips",
+      "links": [],
+      "body_part": "Lips",
+      "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
+      "condition_img": "https://media.self.com/photos/65158d5e1c03b290a43f806d/4:3/w_2560%2Cc_limit/Chapped-lips.jpeg",
+      "causes": [
+        "Dry or cold weather",
+        "Sun exposure",
+        "Frequent licking of lips",
+        "Dehydration",
+        "Allergic reaction to lip care products"
+      ],
+      "description": "Dry, cracked lips caused by various factors like weather or dehydration.",
+      "useful_tips": [
+        "Choose non-irritating lip products",
+        "Apply sunscreen on lips",
+        "Apply lip balm throughout the day and before going to bed.",
+        "Stay hydrated",
+        "Stop licking or biting lips",
+        "Avoid smoking"
+      ],
+      "recipes": [
+        {
+          "recipe_name": "Honey Lip Mask",
+          "images": [
+            "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+            "https://vedix.com/cdn/shop/articles/Evidence-Based_d0ddd4a0-ff26-4541-bf3c-095cc6046b1c_1024x400.jpg?v=1635945992"
+          ],
+          "ingredients": [
+            "2 tablespoon of Honey",
+            "A Vitamin E capsule",
+            "1 tablespoon Shea butter"
+          ],
+          "how_to_prepare":["Mix the vitamin E and the honey in clean bowl very well to form a homogenous mixture."],
+          "how_to_use":[
+              "Apply the mixture to the lips then add a layer of shea butter on it.",
+              "Leave it for 15 minutes or overnight for better results.",
+              "Remove it with a damp tissue or towel.",
+              "Repeat it once a day."
+          ]
+        }
+      ]
+    },
+    {
+      "condition_name": "Teeth Discoloration",
+      "links": [],
+      "body_part": "Teeth",
+      "category_img": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/white-teeth.jpg",
+      "condition_img": "https://scottsdaledentalexcellence.com/wp-content/uploads/2021/01/why-teeth-discolor-and-how-to-prevent-and-reverse-it.jpg",
+      "causes": [
+        "Consumption of certain foods and beverages (like coffee, tea, red wine)",
+        "Tobacco use",
+        "Poor dental hygiene",
+        "Disease affecting enamel and dentin",
+        "Certain medications",
+        "Aging"
+      ],
+      "description": "Teeth discoloration is the change of the color of teeth, it often becomes yellow. This discoloration may be extrinsic or intrinsic. \n Extrinsic Teeth Discoloration: it occurs on the surface of the tooth because of non-metallic factors like tobacco use or poor oral hygiene and metallic factors like using the iron supplements. \n Intrinsic Teeth Discoloration: this occurs deeply in the teeth because of using some medications like tetracycline antibiotics or because of dental trauma and enamel crack. ",
+      "useful_tips": [
+        "Avoid smoking.",
+        "Limit the coffee and tea intake.",
+        "Brush the teeth regularly.",
+        "Never underestimate the efficacy of the teeth flossing."
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Strawberries Recipe",
+          "ingredients": ["2 strawberries ", "1 teaspoon lemon juice ", "Water"],
+          "images": [
+            "https://www.health.com/thmb/18xOlsk4Eb84ciGWMo9LVXBkWKk=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberries-c5f434e7729e47c5b32c0deaa029386c.jpg",
+            "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg"
+            ,"https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
+          ],
+          "how_to_prepare":["Mash the strawberries to get the strawberries pulp.","Add the pulp, lemon juice and water in a bowl.","Mix them very well to get a paste."],
+          "how_to_use":["Put some paste on toothbrush.","Apply it on the teeth for 3 minutes.","Rinse it with water.","Brush the teeth with the regular toothpaste.","Repeat it once a week"]
+        },
+        {
+          "recipe_name": "The Banana Peel Recipe",
+          "ingredients": [
+            "1 banana peel",
+            "1 teaspoon lemon juice",
+            "1 teaspoon toothpaste"
+          ],
+          "images": [
+            "https://thefoodtrends.com/wp-content/uploads/2023/01/banana-peel-tea.jpg",
+            "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg"
+          ],
+          "how_to_prepare":["Rub the banana peel with a spoon and get the inner content of it then add it in a clean bowl.","Add the lemon juice and toothpaste to the bowl.","Mix all the ingredients very well to form a homogenous mixture."],
+          "how_to_use":["Put a little bit of this mixture on a toothbrush.","Brush the teeth for 1 or 2 minutes.","Repeat 3-4 times a week for better results."]
+        }
+      ]
+    },
+    {
+      "condition_name": "Bad Breath",
+      "links": [],
+      "body_part": "Teeth",
+      "category_img": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/white-teeth.jpg",
+      "condition_img": "https://www.canalvistafamilydental.com/wp-content/uploads/2019/10/what-causes.webp",
+      "causes": [
+        "Consumption of certain foods and beverages (like coffee, tea, red wine)",
+        "Tobacco use",
+        "Poor dental hygiene",
+        "Disease affecting enamel and dentin",
+        "Certain medications"
+      ],
+      "description": "Halitosis or the bad breath refers to the unpleasant odour that comes from the oral cavity. The reason for the bad breath is the oral bacteria which is normally found between tongue buds that produce sulphur containing compounds. The poor oral hygiene and ignoring the teeth flossing make the bacteria grow on the food left between the teeth and in the mouth causing the bad breath.",
+      "useful_tips": [
+        "Drink water.",
+        "Avoid smoking.",
+        "Clean the tongue.",
+        "Brush and floss the teeth.",
+        "Chew gum."
+      ],
+      "recipes": [
+        {
+          "recipe_name": "The Cinnamon Mouthwash Recipe",
+          "ingredients": ["1 tablespoon cinnamon.", "1 tablespoon whole cloves.", "1 cup of water."],
+          "images": [
+            "https://images.immediate.co.uk/production/volatile/sites/30/2016/08/cinnamon-benefits44-724deaf.jpg?quality=90&resize=440,400",
+            "https://m.media-amazon.com/images/I/A1PjxnKmF+L._SL1500_.jpg"
+            ,"https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
+          ],
+          "how_to_prepare":["Boil the water then add the cinnamon and cloves.","Remove from the heat and let them infuse for 10 minutes.","Strain the mixture.","Pour the mixture into a bottle with a lid."],
+          "how_to_use":["Use it as a mouthwash and gargle with it whenever needed.","Keep it in the refrigerator and use it within 1 week."]
+        },
+        {
+          "recipe_name": "The Peppermint Mouthwash Recipe",
+          "ingredients": [
+            "1 cup of water",
+            "3-4 drops peppermint oil ",
+            "1 teaspoon honey (optional)"
+          ],
+          "images": [
+            "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg",
+            "https://www.drweil.com/wp-content/uploads/2018/09/Peppermint-Oil-_-Guide-To-Essential-Oils-_-Andrew-Weil-M.D_-673386912.jpg",
+            "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg"
+          ],
+          "how_to_prepare":["Mix all the ingredients."],
+          "how_to_use":["Use it as refreshing mouthwash whenever needed."]
+        }
+      ]
+    }
+  ]
+  
