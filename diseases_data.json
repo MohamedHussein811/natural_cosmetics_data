@@ -54,7 +54,6 @@
   
     {
       "condition_name": "Foot Odor",
-      "links": [],
       "body_part": "Feet",
       "category_img": "https://static.independent.co.uk/2021/05/14/09/27143927-1189d967-8023-4216-b19d-4a350c9bd161.jpg",
       "condition_img": "https://www.bonnysilver.us/cdn/shop/articles/5fd88c48c382e_1024x1024.jpg?v=1608036504",
@@ -86,8 +85,25 @@
           "how_to_use":[
               "Soak your feet in the foot bath for 15 minutes (can be repeated multiple times a day if needed) then rinse and dry your feet. Rub a few drops of lavender oil on your feet especially between your toes. You can sprinkle some baking soda in your shoes to soak up the moisture and bad odor.",
               "(Caution: avoid soaking your feet in vinegar in case of having any open wounds or sores)"
+          ],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://facrockies.com/6-must-know-home-remedies-for-smelly-feet/"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://books.google.com.eg/books/about/Jude_s_Herbal_Home_Remedies.html?id=gYzvneE7Rk8C&redir_esc=y"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369171/"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6982929/"
+            }
           ]
-          
         }
       ],
       "causes": [
@@ -97,7 +113,6 @@
     },
     {
       "condition_name": "Dark Circles",
-      "links": [],
       "body_part": "Eyes",
       "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
       "condition_img": "https://images.ctfassets.net/u4vv676b8z52/47V4TT1U3ZzvkZPrwUi7xi/a94094548690c551a1a7e0e7fc464a0d/dark-circles-under-eyes-678x446.gif?fm=jpg&q=80",
@@ -118,7 +133,25 @@
             "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
           ],
           "how_to_prepare": ["Add boiling water to the tea bags in a cup", "Brew the tea bags for 5 – 10 minutes ", "Take out the tea bags and put them in the refrigerator to cool"],
-          "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."]
+          "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://facrockies.com/6-must-know-home-remedies-for-smelly-feet/"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://books.google.com.eg/books/about/Jude_s_Herbal_Home_Remedies.html?id=gYzvneE7Rk8C&redir_esc=y"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://pharmeasy.in/blog/home-remedies-for-dark-circles/"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchsquare.com/article/rs-3282747/v1"
+            }
+          ]
         }
       ],
       "causes": [
@@ -133,7 +166,6 @@
     },
     {
       "condition_name": "Under-eye Bags",
-      "links": [],
       "body_part": "Eyes",
       "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
       "condition_img": "https://ocalaeye.com/wp-content/uploads/2022/04/nancy-before.png",
@@ -155,7 +187,17 @@
             "https://articles-1mg.gumlet.io/articles/wp-content/uploads/2016/05/slides-cucumbers1-2.jpg?compress=true&quality=80&w=640&dpr=2.6"
           ],
           "how_to_prepare":["Wash a fresh cold cucumber well then cut it into thin slices."],
-          "how_to_use":["Gently put two cucumber slices on both eyes and leave them on  until they warm up, then turn them over and leave them on until they warm up. Remove the slices and wash your face."]
+          "how_to_use":["Gently put two cucumber slices on both eyes and leave them on  until they warm up, then turn them over and leave them on until they warm up. Remove the slices and wash your face."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.medicalnewstoday.com/articles/cucumbers-on-eyes"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://books.google.com.eg/books?hl=en&lr=&id=y7ZaEAAAQBAJ&oi=fnd&pg=PA39&dq=info:Hl4XmO6ztWcJ:scholar.google.com/&ots=osE7atV5cz&sig=3Wr1vDjiTYvmAko8A167CUa02aA&redir_esc=y#v=onepage&q&f=false"
+            }
+          ]
         },
         {
           "recipe_name": "The Black or Green Tea Recipe",
@@ -165,7 +207,17 @@
             "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
           ],
           "how_to_prepare":["Add boiling water to the tea bags in a cup","Brew the tea bags for 5 – 10 minutes","Take out the tea bags and put them in the refrigerator to cool"],
-          "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."]
+          "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/how-to-get-rid-of-bags-under-your-eyes"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/profile/Naga-Harika-Korrapati/publication/354871368_Effective_Home_Remedies_that_Provide_Quick_Relief_for_Puffy_Eyes/links/61520216d2ebba7be75221e6/Effective-Home-Remedies-that-Provide-Quick-Relief-for-Puffy-Eyes.pdf "
+            }
+          ]
         }
       ],
       "causes": [
@@ -175,7 +227,6 @@
     },
     {
       "condition_name": "Active Acne",
-      "links": [],
       "body_part": "Face",
       "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
       "condition_img": "https://radiantclinique.com/wp-content/uploads/2019/01/Active-acne.jpg",
@@ -202,7 +253,17 @@
             "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg"
           ],
           "how_to_prepare":["Brew the green teabag in boiling water","Remove the teabag and let it cool","Add the honey to a bowl","Open teabag and empty it in the bowl","Mix well"],
-          "how_to_use":["Wash face well and dry it","Apply the paste on face using clean fingertips","Leave the mask for 15 minutes","Rinse with warm water and pat the face dry","Can be used once a week"]
+          "how_to_use":["Wash face well and dry it","Apply the paste on face using clean fingertips","Leave the mask for 15 minutes","Rinse with warm water and pat the face dry","Can be used once a week"],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ptr.6809"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.healthline.com/health/beauty-skin-care/green-tea-face-mask#what-do-you-need"
+            }
+          ]
         },
         {
           "name": "The Honey Recipe",
@@ -212,14 +273,27 @@
             "https://maharaj-northbrook.com/wp-content/uploads/2020/10/Plain-Yogurt-1.jpg"
           ],
           "how_to_prepare":["In bowl add the honey","Add the yogurt","Stir ingredients well with a fork"],
-          "how_to_use":["Tie the hair first to avoid stickiness.","Dampen the face with warm water","Apply the mask on the face","Leave for 15 minutes","Rinse with warm water first then with cool water","Pat the skin with a clean dry towel","This mask can be applied twice a week"]
+          "how_to_use":["Tie the hair first to avoid stickiness.","Dampen the face with warm water","Apply the mask on the face","Leave for 15 minutes","Rinse with warm water first then with cool water","Pat the skin with a clean dry towel","This mask can be applied twice a week"],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.wikihow.com/Make-a-Yogurt-Face-Mask "
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.liebertpub.com/doi/abs/10.1089/acm.2014.0261"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.wageningenacademic.com/doi/epdf/10.3920/BM2012.0060?role=tab"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Blackheads",
       "body_part": "Face",
-      "links": [],
       "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
       "condition_img": "https://www.advanceddermatologyseattle.com/wp-content/uploads/2020/05/blackheads.jpg",
       "description": "Common acne type, develops from sebum and dead skin cells clogging pores.",
@@ -244,7 +318,17 @@
             "https://m.timesofindia.com/photo/88896772/88896772.jpg"
           ],
           "how_to_prepare":["Crack an egg then separate the egg white from the yolk","Add the egg white to a bowl","Add the honey in the same bowl","Mix well"],
-          "how_to_use":["Wash face first then dry it","Apply the mask on affected area","Place a tissue paper on the area of the mask","Leave for 20 minutes","Gently pull the tissue","Rinse with warm water","Can be applied every alternate day for best results"]
+          "how_to_use":["Wash face first then dry it","Apply the mask on affected area","Place a tissue paper on the area of the mask","Leave for 20 minutes","Gently pull the tissue","Rinse with warm water","Can be applied every alternate day for best results"],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.myupchar.com/en/beauty/blackheads/home-remedies-for-blackheads-in-hindi"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jocd.12058"
+            }
+          ]
         },
         {
           "name": "The Tea Tree Oil Recipe",
@@ -259,14 +343,23 @@
             "https://www.purodem.com/wp-content/uploads/2022/11/carrier-oils-1.webp"
           ],
           "how_to_prepare":["In a bowl add the tea tree oil with the carrier oil and mix both well","Add the honey and the sugar to the bowl","Mix well"],
-          "how_to_use":["Steam the face for 10 minutes by boiling water in a bowl then bending over it with a towel covering the head.","Apply the mixture to the nose","Massage gently in a circular motion for 5 minutes","Rinse off with cool water"]
+          "how_to_use":["Steam the face for 10 minutes by boiling water in a bowl then bending over it with a towel covering the head.","Apply the mixture to the nose","Massage gently in a circular motion for 5 minutes","Rinse off with cool water"],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://jddtonline.info/index.php/jddt/article/view/2838"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.stylecraze.com/articles/simple-ways-to-use-tea-tree-oil-to-remove-blackheads/"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Whiteheads",
       "body_part": "Face",
-      "links": [],
       "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
       "condition_img": "https://i.insider.com/59b68233f7f1f621008b4788?width=700",
       "description": "Small, flesh-colored papules on the skin, often found on oily areas of the face.",
@@ -291,7 +384,21 @@
             "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
           ],
           "how_to_prepare":["Peel the potato and blend it in a blender or grate it","Extract its juice","Add the juice in a bowl","Add the honey in the bowl","Mix well"],
-          "how_to_use":["Wash the face well","Apply the mask on the face","Leave for 15 minutes","Wash with warm water"]
+          "how_to_use":["Wash the face well","Apply the mask on the face","Leave for 15 minutes","Wash with warm water"],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.stbotanica.com/blog/potato-for-face"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/profile/Dr-Bordoloi-2/publication/359471395_Mini_Review_Prospects_of_Medicinal_and_Commercial_Utilization_of_Potato_Peel_Waste/links/623e07b17931cc7ccff6d8d0/Mini-Review-Prospects-of-Medicinal-and-Commercial-Utilization-of-Potato-Peel-Waste.pdf"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.herdin.ph/index.php/component/herdin/?view=research&cid=54460"
+            }
+          ]
         },
         {
           "name": "The Yogurt Recipe",
@@ -304,13 +411,22 @@
             "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
           ],
           "how_to_prepare":["Blend a tomato in a blender to form paste","Add the paste to a bowl","Add the yogurt to the bowl","Mix well"],
-          "how_to_use":["On damp skin, apply the mask on the face","Leave for 20 minutes","Gently rub it off with cool water","This mask can be used twice a week"]
+          "how_to_use":["On damp skin, apply the mask on the face","Leave for 20 minutes","Gently rub it off with cool water","This mask can be used twice a week"],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3931201/"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.healthshots.com/beauty/natural-cures/how-to-get-glowing-skin-with-completely-natural-home-remedies/"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Hair Loss",
-      "links": [],
       "body_part": "Hair",
       "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
       "condition_img": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24515-male-pattern-baldness",
@@ -324,7 +440,7 @@
       "useful_tips": [
         "Follow healthy diet",
         "Avoid washing hair every day",
-        "Massage the scalp before bedtime",
+        "Massage the scalp before bedtime", 
         "Use gentle shampoo",
         "Protect hair from long exposure to sunlight"
       ],
@@ -337,7 +453,17 @@
             "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/05/25/cloves-of-garlic-in-bowl.jpg.rend.hgtvcom.1280.1280.suffix/1621974631234.jpeg"
           ],
           "how_to_prepare":["Blend 2 onion and 5 garlic cloves together.","Strain the mixture to obtain the juice."],
-          "how_to_use":["Apply the juice and message the scalp.","Leave it on the scalp for at least 10 minutes.","Rinse it off with gentle shampoo."]
+          "how_to_use":["Apply the juice and message the scalp.","Leave it on the scalp for at least 10 minutes.","Rinse it off with gentle shampoo."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://jddtonline.info/index.php/jddt/article/view/4066"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/profile/Firoj-Tamboli-2/publication/353488724_Medicinal_plants_used_in_cosmetics_for_skin_and_hair_care/links/610407b61ca20f6f86eaedusskinals-in"
+            }
+          ]
         },
         {
           "recipe_name": "The Liquorice Recipe",
@@ -352,14 +478,18 @@
               "https://www.allrecipes.com/thmb/TgXszUn8XHUTe19kOwlyGQ4ZjyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-87984584-2-2000-b40af34c16fd4bed815f1e279592b172.jpg"
           ],
           "how_to_prepare":["Mix all ingredients to get homogenous paste."],
-          "how_to_use":["Apply the paste on the bald patches at night.","Let it to stay on the scalp overnight.","Wash hair with shampoo in the morning."]
-  
+          "how_to_use":["Apply the paste on the bald patches at night.","Let it to stay on the scalp overnight.","Wash hair with shampoo in the morning."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.12051"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Dandruff",
-      "links": [],
       "body_part": "Hair",
       "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
       "condition_img": "https://www.starhealth.in/blog/wp-content/uploads/2022/07/common-image-of-Dandruff.jpg",
@@ -390,7 +520,17 @@
             "1 tablespoon ginger juice"
           ],
           "how_to_prepare":["Mix all ingredients together to get a mixture."],
-          "how_to_use":["Apply the mixture to the scalp.","Message the scalp for 3 minutes.","Leave the mixture on the scalp one hour.","Wash hair with gentle shampoo and warm water."]
+          "how_to_use":["Apply the mixture to the scalp.","Message the scalp for 3 minutes.","Leave the mixture on the scalp one hour.","Wash hair with gentle shampoo and warm water."], 
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.academia.edu/44449476/Overview_of_Dandruff_and_its_Remedies_with_Allopathy_and_Ayurvedic_Therapy"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1546565293.pdf"
+            }
+          ]
         },
         {
           "recipe_name": "The Fenugreek and Hibiscus Recipe",
@@ -404,13 +544,18 @@
             "¼ cup milk"
           ],
           "how_to_prepare":["Mix fenugreek, hibiscus and milk together to form homogenous mixture."],
-          "how_to_use":["Apply the mixture to hair and scalp.","Leave it on scalp for almost one hour.","Rinse it off with shampoo."]
+          "how_to_use":["Apply the mixture to hair and scalp.","Leave it on scalp for almost one hour.","Rinse it off with shampoo."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8206464/"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Split Ends",
-      "links": [],
       "body_part": "Hair",
       "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
       "condition_img": "https://static.wixstatic.com/media/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg/v1/fill/w_640,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg",
@@ -436,7 +581,13 @@
           ],
           "ingredients": ["2 ripe bananas", "1 egg"],
           "how_to_prepare":["Mashing bananas using a fork.","Add the mashed banana to the egg.","Mix two ingredients well to form consistent mixture."],
-          "how_to_use":["Apply the mixture to the hair.","Leave it on the hair at least 15-30 minutes.","Rinse it off using gentle shampoo and warm water."]
+          "how_to_use":["Apply the mixture to the hair.","Leave it on the hair at least 15-30 minutes.","Rinse it off using gentle shampoo and warm water."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.phytojournal.com/vol1Issue3/9.html#:~:text=All%20parts%20of%20the%20banana,on%20hemorrhoids%2C%20insect%20and%20other"
+            }
+          ]
         },
         {
           "recipe_name": "The Sunflower Oil Recipe",
@@ -446,13 +597,18 @@
           ],
           "ingredients": ["1 egg", "1 tablespoon of sunflower oil"],
           "how_to_prepare":["Separate yolk of the egg.","Beat the yolk then, add sunflower oil and mix well."],
-          "how_to_use":["Apply the mixture to the hair and leave it at least 30 minutes.","Washing hair with shampoo."]
+          "how_to_use":["Apply the mixture to the hair and leave it at least 30 minutes.","Washing hair with shampoo."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://ijpsr.com/bft-article/a-comprehensive-review-on-herbal-cosmetics/"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Brittle Nails",
-      "links": [],
       "body_part": "Nails",
       "category_img": "https://media.glamourmagazine.co.uk/photos/655788ec7c1d40d06618ecd4/4:3/w_1704,h_1278,c_limit/SHORT-NAIL-DESIGNS-111723-@elias.nails-L.jpg",
       "condition_img": "https://www.shutterstock.com/image-photo/flaky-bitten-brittle-nails-without-600nw-2305814343.jpg",
@@ -486,7 +642,21 @@
             "1 garlic clove"
           ],
           "how_to_prepare":["Mix aloe vera gel and the olive oil in a clean bowl very well to form a serum.","Chop the garlic clove in a chopping machine to form a paste."],
-          "how_to_use":["Rub the garlic paste to the nails, massage it in gentle circular motions and leave it for 10 minutes.","Wash off and dry the nails.","Now Apply the Serum onto the nails and massage it.","Leave it for 2 hours or overnight for better results.","Apply the Serum every night before bed and apply the garlic paste twice a week."]
+          "how_to_use":["Rub the garlic paste to the nails, massage it in gentle circular motions and leave it for 10 minutes.","Wash off and dry the nails.","Now Apply the Serum onto the nails and massage it.","Leave it for 2 hours or overnight for better results.","Apply the Serum every night before bed and apply the garlic paste twice a week."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/368732777_Herbal_Remedies_in_Cosmeceuticals_Formulation_A_Review_on_Nepalese_Perspectives"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://ijrdt.com/index.php/files/article/view/81/36"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/362302729_Complete_Book"
+            }
+          ]
         },
         {
           "recipe_name": "The Egg Recipe",
@@ -501,13 +671,22 @@
             "1 tablespoon of honey "
           ],
           "how_to_prepare":["In a bowl, mix all the ingredients together very well."],
-          "how_to_use":["Soak the nails in the bowl.","Leave it for 15 minutes.","Wash the nails very well.","Make sure to dry the nails to avoid making them brittle because of the moisture.","Repeat it as needed."]
+          "how_to_use":["Soak the nails in the bowl.","Leave it for 15 minutes.","Wash the nails very well.","Make sure to dry the nails to avoid making them brittle because of the moisture.","Repeat it as needed."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.mdpi.com/1420-3049/25/3/556"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://wellandhealthylifes.com/wp-content/uploads/2019/08/B-Complex-Vitamin.pdf"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Yellow Nails",
-      "links": [],
       "body_part": "Nails",
       "category_img": "https://media.glamourmagazine.co.uk/photos/655788ec7c1d40d06618ecd4/4:3/w_1704,h_1278,c_limit/SHORT-NAIL-DESIGNS-111723-@elias.nails-L.jpg",
       "condition_img": "https://d3079h9ojn760r.cloudfront.net/media/2018/04/25131741/yellow-nails-after-Polish.jpg",
@@ -540,7 +719,13 @@
             "1 cup of warm water"
           ],
           "how_to_prepare":["In a bowl, add the water.","Then add the rest of the ingredients and mix them all very well."],
-          "how_to_use":["Soak the nails in the bowl.","Massage the nails while being soaked.","Leave it for 5 minutes..","Dry the nails very well.","Repeat it twice a week."]
+          "how_to_use":["Soak the nails in the bowl.","Massage the nails while being soaked.","Leave it for 5 minutes..","Dry the nails very well.","Repeat it twice a week."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/368732777_Herbal_Remedies_in_Cosmeceuticals_Formulation_A_Review_on_Nepalese_Perspectives"
+            }
+          ]
         },
         {
           "recipe_name": "The Tea Tree Oil Recipe",
@@ -555,13 +740,22 @@
             "3 drops olive oil"
           ],
           "how_to_prepare":["Put the tea tree oil on the cotton ball."],
-          "how_to_use":["Massage the nails and nail bed with the cotton ball.","After 2 minutes, wash it with warm water.","Dry the nails.","Massage the nails with the olive oil."]
+          "how_to_use":["Massage the nails and nail bed with the cotton ball.","After 2 minutes, wash it with warm water.","Dry the nails.","Massage the nails with the olive oil."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://phytopharmajournal.com/articles/details/196/year=&vol=&issue= "
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/368732777_Herbal_Remedies_in_Cosmeceuticals_Formulation_A_Review_on_Nepalese_Perspectives"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Dark Lips",
-      "links": [],
       "body_part": "Lips",
       "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
       "condition_img": "https://images.indianexpress.com/2019/11/dark-lips-1200.jpg?w=389",
@@ -594,13 +788,18 @@
             "1 teaspoon olive oil"
           ],
           "how_to_prepare":["In a clean bowl add all the ingredients and mix them together very well to form the scrub."],
-          "how_to_use":["Exfoliate the lips with the scrub gently for 2 minutes in a circular motion.","Remove the scrub with damp tissue or towel.","Apply lip balm.","Repeat 2-3 times a week."]
+          "how_to_use":["Exfoliate the lips with the scrub gently for 2 minutes in a circular motion.","Remove the scrub with damp tissue or towel.","Apply lip balm.","Repeat 2-3 times a week."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": " https://www.stylecraze.com/articles/get-rid-of-dark-lips/"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Chapped Lips",
-      "links": [],
       "body_part": "Lips",
       "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
       "condition_img": "https://media.self.com/photos/65158d5e1c03b290a43f806d/4:3/w_2560%2Cc_limit/Chapped-lips.jpeg",
@@ -638,13 +837,22 @@
               "Leave it for 15 minutes or overnight for better results.",
               "Remove it with a damp tissue or towel.",
               "Repeat it once a day."
+          ],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.stylecraze.com/articles/simple-homemade-tips-to-get-rid-of-chapped-lips/ "
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7036894/"
+            }
           ]
         }
       ]
     },
     {
       "condition_name": "Teeth Discoloration",
-      "links": [],
       "body_part": "Teeth",
       "category_img": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/white-teeth.jpg",
       "condition_img": "https://scottsdaledentalexcellence.com/wp-content/uploads/2021/01/why-teeth-discolor-and-how-to-prevent-and-reverse-it.jpg",
@@ -673,7 +881,17 @@
             ,"https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
           ],
           "how_to_prepare":["Mash the strawberries to get the strawberries pulp.","Add the pulp, lemon juice and water in a bowl.","Mix them very well to get a paste."],
-          "how_to_use":["Put some paste on toothbrush.","Apply it on the teeth for 3 minutes.","Rinse it with water.","Brush the teeth with the regular toothpaste.","Repeat it once a week"]
+          "how_to_use":["Put some paste on toothbrush.","Apply it on the teeth for 3 minutes.","Rinse it with water.","Brush the teeth with the regular toothpaste.","Repeat it once a week"],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/368732777_Herbal_Remedies_in_Cosmeceuticals_Formulation_A_Review_on_Nepalese_Perspectives"
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/356843754_A_review_on_natural_teeth_whitening"
+            }
+          ]
         },
         {
           "recipe_name": "The Banana Peel Recipe",
@@ -687,13 +905,18 @@
             "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg"
           ],
           "how_to_prepare":["Rub the banana peel with a spoon and get the inner content of it then add it in a clean bowl.","Add the lemon juice and toothpaste to the bowl.","Mix all the ingredients very well to form a homogenous mixture."],
-          "how_to_use":["Put a little bit of this mixture on a toothbrush.","Brush the teeth for 1 or 2 minutes.","Repeat 3-4 times a week for better results."]
+          "how_to_use":["Put a little bit of this mixture on a toothbrush.","Brush the teeth for 1 or 2 minutes.","Repeat 3-4 times a week for better results."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/356843754_A_review_on_natural_teeth_whitening"
+            }
+          ]
         }
       ]
     },
     {
       "condition_name": "Bad Breath",
-      "links": [],
       "body_part": "Teeth",
       "category_img": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/white-teeth.jpg",
       "condition_img": "https://www.canalvistafamilydental.com/wp-content/uploads/2019/10/what-causes.webp",
@@ -722,7 +945,17 @@
             ,"https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
           ],
           "how_to_prepare":["Boil the water then add the cinnamon and cloves.","Remove from the heat and let them infuse for 10 minutes.","Strain the mixture.","Pour the mixture into a bottle with a lid."],
-          "how_to_use":["Use it as a mouthwash and gargle with it whenever needed.","Keep it in the refrigerator and use it within 1 week."]
+          "how_to_use":["Use it as a mouthwash and gargle with it whenever needed.","Keep it in the refrigerator and use it within 1 week."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/356843754_A_review_on_natural_teeth_whitening "
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://www.mdpi.com/1999-4907/12/5/648"
+            }
+          ]
         },
         {
           "recipe_name": "The Peppermint Mouthwash Recipe",
@@ -737,7 +970,17 @@
             "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg"
           ],
           "how_to_prepare":["Mix all the ingredients."],
-          "how_to_use":["Use it as refreshing mouthwash whenever needed."]
+          "how_to_use":["Use it as refreshing mouthwash whenever needed."],
+          "links": [
+            {
+              "link_text": "Click me",
+              "url": "https://www.researchgate.net/publication/356843754_A_review_on_natural_teeth_whitening "
+            },
+            {
+              "link_text": "Click me",
+              "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394167197.ch12"
+            }
+          ]
         }
       ]
     }
